@@ -10,8 +10,10 @@ Projeto criado para praticar programação e manipulação de interfaces gráfic
 - Interface gráfica simples e intuitiva.
 - Exibição do resultado em tempo real.
 
+
 ## 📸 Captura de tela
 ![Calculadora](screenshot.png)
+
 
 
 ---
