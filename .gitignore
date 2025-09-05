@@ -1,0 +1,13 @@
+# Ignorar configurações do editor
+.idea/
+
+# Ignorar arquivos e pastas do PyInstaller
+build/
+dist/
+*.spec
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
