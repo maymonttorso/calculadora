@@ -12,7 +12,7 @@ Projeto criado para praticar programação e manipulação de interfaces gráfic
 
 
 ## 📸 Captura de tela
-![Calculadora](screenshot.png)
+![Calculadora](imgcalculator/calculadora.png)
 
 
 
@@ -20,7 +20,7 @@ Projeto criado para praticar programação e manipulação de interfaces gráfic
 
 🛠️ Tecnologias utilizadas
 
-Python 3
+Python 
 
 Tkinter
 
